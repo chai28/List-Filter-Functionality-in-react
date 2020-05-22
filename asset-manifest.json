@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/List-Filter-Functionality-in-react/static/css/main.1a61b5ef.chunk.css",
+    "main.js": "/List-Filter-Functionality-in-react/static/js/main.156e364d.chunk.js",
+    "main.js.map": "/List-Filter-Functionality-in-react/static/js/main.156e364d.chunk.js.map",
+    "runtime-main.js": "/List-Filter-Functionality-in-react/static/js/runtime-main.eb1845b1.js",
+    "runtime-main.js.map": "/List-Filter-Functionality-in-react/static/js/runtime-main.eb1845b1.js.map",
+    "static/js/2.57ae9aa0.chunk.js": "/List-Filter-Functionality-in-react/static/js/2.57ae9aa0.chunk.js",
+    "static/js/2.57ae9aa0.chunk.js.map": "/List-Filter-Functionality-in-react/static/js/2.57ae9aa0.chunk.js.map",
+    "index.html": "/List-Filter-Functionality-in-react/index.html",
+    "precache-manifest.9af1bd72113a960a0271af0725f15549.js": "/List-Filter-Functionality-in-react/precache-manifest.9af1bd72113a960a0271af0725f15549.js",
+    "service-worker.js": "/List-Filter-Functionality-in-react/service-worker.js",
+    "static/css/main.1a61b5ef.chunk.css.map": "/List-Filter-Functionality-in-react/static/css/main.1a61b5ef.chunk.css.map",
+    "static/js/2.57ae9aa0.chunk.js.LICENSE.txt": "/List-Filter-Functionality-in-react/static/js/2.57ae9aa0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb1845b1.js",
+    "static/js/2.57ae9aa0.chunk.js",
+    "static/css/main.1a61b5ef.chunk.css",
+    "static/js/main.156e364d.chunk.js"
+  ]
+}
